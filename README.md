@@ -8,8 +8,7 @@
 - Tester: Test Team
 
 ## Game UI Screenshots
-![Main Game UI](./screenshot/main_ui.png)
-![Battle Scene](./screenshot/battle_scene.png)
+![Main Game UI](./screenshot/main_ui.jpg)
 
 ## Test Cases
 | Case ID | Test Item | Expected Result | Actual Result | Status |
