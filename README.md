@@ -1,2 +1,28 @@
-# game-test-report
-Game test report with game screenshots and bug logs
+# Game Test Report
+> Repository purpose: Store game test records, screenshots and bug logs
+
+## Basic Info
+- Game Name: XXX Game
+- Test Version: v1.0.2
+- Test Date: 2026-09-16
+- Tester: Test Team
+
+## Game UI Screenshots
+![Main Game UI](./screenshot/main_ui.png)
+![Battle Scene](./screenshot/battle_scene.png)
+
+## Test Cases
+| Case ID | Test Item | Expected Result | Actual Result | Status |
+| ---- | ---- | ---- | ---- | ---- |
+| TC001 | Launch game login | Enter main interface normally | Enter main interface normally | Pass |
+| TC002 | Click mall button | Mall popup shows up | Blank popup | Bug |
+
+## Bug List
+1. Mall page shows blank, reproduction rate 100%
+   - Screenshot: ![Mall Bug Screenshot](./screenshot/bug_shop.png)
+   - Priority: High
+2. Sound effect stutters when character moves
+   - Priority: Medium
+
+## Summary
+2 bugs found in this test cycle, including 1 high-priority bug. Recommend fixing before next test phase.
