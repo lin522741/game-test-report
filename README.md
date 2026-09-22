@@ -4,7 +4,7 @@
 ## Basic Info
 - Game Name: Wangzherongyao
 - Test Version: v1.1.0
-- Test Date: 2026-09-22
+- Test Date: 2026-09-23
 - Tester: lin522741
 
 ## Game UI Screenshots
