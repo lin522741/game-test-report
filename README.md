@@ -24,4 +24,4 @@
    - Priority: Medium
 
 ## Summary
-2 bugs found in this test cycle, including 1 high-priority bug. Recommend fixing before next test phase.
+2 bugs found in this test cycle, including 1 high-priority bug. Recommend fixing before next test phase.>用于测试git diff命令
