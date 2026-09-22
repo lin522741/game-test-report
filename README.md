@@ -2,10 +2,10 @@
 > Repository purpose: Store game test records, screenshots and bug logs
 
 ## Basic Info
-- Game Name: XXX Game
-- Test Version: v1.0.2
-- Test Date: 2026-09-16
-- Tester: Test Team
+- Game Name: Wangzherongyao
+- Test Version: v1.1.0
+- Test Date: 2026-09-22
+- Tester: lin522741
 
 ## Game UI Screenshots
 ![Main Game UI](./screenshot/main_ui.jpg)
